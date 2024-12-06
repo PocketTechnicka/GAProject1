@@ -24,9 +24,15 @@ nav {
 
 
 .btn  {
+  height: 40px;
+  width: 180px;
   margin: 6px 12px;
-  padding: 0;
+  padding-top: 15px;
+  border-radius: 20px;
+  text-align: center;
+  color: bisque;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(66, 3, 3);
 }
 
 aside {
@@ -41,9 +47,9 @@ aside {
   border-color: black;
   background-color: saddlebrown;
   
+  color: bisque;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-emphasis: ;
 }
 }
 
