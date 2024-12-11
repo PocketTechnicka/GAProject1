@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  background: url(https://www.belloflostsouls.net/wp-content/uploads/2022/11/Astra-Militarum-Art.jpg)
+    no-repeat center;
+  height: 100vh;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
