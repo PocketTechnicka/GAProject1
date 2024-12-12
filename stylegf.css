@@ -3,11 +3,12 @@ body {
   box-sizing: border-box;
   background: url(https://www.belloflostsouls.net/wp-content/uploads/2022/11/Astra-Militarum-Art.jpg)
     no-repeat center;
-  height: 100vh;
+  height: 70vh;
 }
 
 div {
   display: flex;
+  margin-top: 200px;
   justify-content: center;
 }
 
